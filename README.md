@@ -111,7 +111,7 @@ The model was deployed using Streamlit, allowing users to:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/language-identification-nlp.git
+git clone https://github.com/amandatheuri/language-identification-nlp.git
 cd language-identification-nlp
 ```
 
